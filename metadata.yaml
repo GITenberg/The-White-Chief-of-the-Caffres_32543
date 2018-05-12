@@ -1,0 +1,33 @@
+_repo: The-White-Chief-of-the-Caffres_32543
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Drayson, Alfred W. (Alfred Wilks)
+    aliases:
+    - Drayson, A.W. (Alfred Wilks)
+    - Drayson, A. W. (Alfred Wilks)
+    birthdate: 1827
+    deathdate: 1901
+    gutenberg_agent_id: '35914'
+    url: http://www.gutenberg.org/2009/agents/35914
+description: ''
+gutenberg_issued: '2010-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Xhosa (African people) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Animals -- South Africa -- Juvenile fiction'
+- !lcsh 'South Africa -- Juvenile fiction'
+- !lcsh 'Zulu (African people) -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+title: The White Chief of the Caffres
+url: http://www.gutenberg.org/ebooks/32543
